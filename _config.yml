@@ -9,6 +9,6 @@ keyword: "bbe, 刘宏亮的博客, liuhongliang, 刘宏亮, iOS, Apple, iPhone" 
 url: "https://liuhongliang.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # 这个我们不用填写
 # SNS settings
-RSS: false
+RSS: true
 github_username:    https://github.com/iliuhongliang
 jianshu_username:	https://www.jianshu.com/u/f38034089746
